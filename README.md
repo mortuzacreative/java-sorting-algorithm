@@ -1,2 +1,2 @@
----> Here is some algorithms in java that sort an arraylist.
----> also calculate the execute time each of algorithms. 
+---> Here is some algorithms in java that can sort an arraylist.
+---> also calculate the execute time each of algorithms. Heap and quick is best.. 
